@@ -1,16 +1,19 @@
 body {
     font-family: Verdana, sans-serif;
+    background-color: #ffd7c9;
 }
 
 .title {
     font-family: Georgia, serif;
     text-align: center;
+    color: #b55d51;
 }
 
 h2,
 h3 {
     font-family: Georgia, serif;
     font-size: 24px;
+    color: #b55d51;
 }
 
 img {
